@@ -4,9 +4,14 @@ Rapid WEB application development Forms, Reports, Grids, Charts, PDF. Quick Web 
 Download
 Complete Installer for
 Windows, Linux and MacOS
-Videos
-Watch the tutorial videos to learn
+Videos 
+Watch the tutorial videos to ssasa
 extracting more from Scriptcase
 Hasil Telusur
+<<<<<<< HEAD
 Hasil 
 Cara dan Aturan Penulisan Script PHP | Jagow'
+=======
+Hasil web
+Cara dan Aturan Penulisan Script PHP | Jagow'rgtrgs
+>>>>>>> c74749c83ac845bf03a34a9ae1693e3eebfeae8c

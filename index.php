@@ -9,4 +9,4 @@ Watch the tutorial videos to learn
 extracting more from Scriptcase
 Hasil Telusur
 Hasil web
-Cara dan Aturan Penulisan Script PHP | Jagow
+Cara dan Aturan Penulisan Script PHP | Jagow'

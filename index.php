@@ -8,5 +8,5 @@ Videos
 Watch the tutorial videos to learn
 extracting more from Scriptcase
 Hasil Telusur
-Hasil web
+Hasil 
 Cara dan Aturan Penulisan Script PHP | Jagow'

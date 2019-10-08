@@ -5,7 +5,7 @@ Download
 Complete Installer for
 Windows, Linux and MacOS
 Videos
-Watch the tutorial videos to learn
+Watch the tutorial videos to ssasa
 extracting more from Scriptcase
 Hasil Telusur
 Hasil web
